@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm Aalyan Ateeb
 
 🚀 **Aspiring Front-End Developer | Business & IT Student | Tech Enthusiast**
 
@@ -55,7 +55,6 @@ I am passionate about **web development, business ecosystems, and continuous lea
 ---
 
 ## 📫 Let's Connect!
-🔗 [LinkedIn](https://www.linkedin.com/in/random-name)
-📧 example@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/aalyan-ateeb-zaheer-butt)
 
 💡 *"Perseverance, despite the rejections, is the key."*
